@@ -1,0 +1,24 @@
+{
+  "name": "softwaredesignpatterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Suren Poghosyan",
+  "license": "MIT",
+  "description": "Examples of Creational / Structural / Behavioral Software Design Patterns",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surenpoghosian/SoftwareDesignPatterns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/surenpoghosian/SoftwareDesignPatterns/issues"
+  },
+  "homepage": "https://github.com/surenpoghosian/SoftwareDesignPatterns#readme",
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "typescript": "^5.6.2"
+  }
+}
